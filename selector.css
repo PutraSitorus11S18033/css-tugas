@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+}
+#daftar-siswa {
+  transition: 0.3s;
+  background-color: gainsboro;
+}
+
+#pertama{
+  background-color: #60A5FA;
+}
+
+#terakhir{
+  background-color: #F87171;
+}
+#pertama:hover{
+  background-color: #E5E7EB;
+}
+
+#terakhir:hover{
+  background-color: #E5E7EB;
+}
+p:hover {
+  background-color: #E5E7EB;
+}
